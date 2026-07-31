@@ -1,7 +1,7 @@
 # Hi, I'm Lucas3IQ
 I will be starting my second year of a Bachelor's in Data Science and Artificial Intelligence soon.
 
-## What I Worked on:
+## What I've Worked on:
 
 ### **Text-to-Speech (TTS) End-to-End Pipeline:**
 * **ResidualGlowTTS:** An acoustic model architecture designed for generating log mel spectrograms from text input.
